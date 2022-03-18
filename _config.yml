@@ -108,7 +108,6 @@ author:
   avatar           : "/images/lsd.jpg"
   bio              : "Associate Threat Researcher"
   location         : "United States"
-  linkedin         : "lsd"
   twitter          : "lsd"
   email            :
   links:
@@ -124,9 +123,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/threatupdates"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "http://linkedin.com/in/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/lsd"
