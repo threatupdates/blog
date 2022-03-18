@@ -1,8 +1,7 @@
 ---
 title:  "From Zero to Hero"
 date:   2016-07-20
-tags: [posts]
-excerpt: "Malware"
+tags: [media]
 ---
 Introduction
 ---
