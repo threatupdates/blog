@@ -4,8 +4,8 @@ main:
     url: https://threatupdates.github.io/
   - title: "Posts"
     url: /posts/
-  - title: "Ransomware Links"
-    url: /ransomware-links/ 
+  - title: "Links"
+    url: /links/ 
   - title: "Media"
     url: /media/
   # - title: "Sample Posts"
