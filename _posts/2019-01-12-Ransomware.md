@@ -1,5 +1,5 @@
 ---
-title:  "RansomwareP"
+title:  "Ransomware"
 date:   2019-01-12
 tags: [posts]
 ---
