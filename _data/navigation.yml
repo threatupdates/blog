@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: https://threatupdates.github.io/
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
   - title: "Links"
     url: https://threatupdates.github.io/links/ 
