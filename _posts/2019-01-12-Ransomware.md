@@ -123,7 +123,7 @@ tags: [posts]
    LOCKBIT 3.0 Dark mirror 8   |hxxp  ://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion     |                                  
    LOCKBIT 3.0 Dark mirror 9   |hxxp  ://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion     |                                  
    LOCKBIT 3.0 "Leaked"      |hxxp  ://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion           |                   
-   LOCKBIT  |            hxxp  ://lockbitkodidilol.onion                         | 
+   LOCKBIT  |            hxxp://lockbitkodidilol.onion                         | 
    LOCKFILE Victims request ID page  |           hxxp  ://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion  |                        
    LORENZ   |           hxxp  ://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion                           |   
    LV  Blog 1   |                    hxxp  ://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion         |                 
@@ -153,8 +153,7 @@ tags: [posts]
    ONEPERCENT    |          hxxp  ://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion                        |  
    PANDORA       |       hxxp  ://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion                          |
    PAY2KEY       |       hxxp  ://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion                          |
-   PAYLOAD.BIN  Ex BABUK LOCKER  |                             hxxp  ://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion       |                   
-   PROLOCK       |       hxxp  ://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion |                          
+   PAYLOAD.BIN  Ex BABUK LOCKER  |                             hxxp  ://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion       |              PROLOCK       |       hxxp  ://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion |                          
    PROMETHEUS    |          hxxp  ://promethw27cbrcot.onion/blog                          |
    PYSA          |    hxxp  ://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html  |                        
    QILIN         |     hxxp  ://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion     |                         
